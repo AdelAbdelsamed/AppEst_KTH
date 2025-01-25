@@ -16,6 +16,8 @@ Key objectives:
 
 Warm-Up Exercise: Exploring the behavior of the standard Kalman Filter in a car-tracking scenario.
 Main Problem: Developing an EKF-based localization system for a robot, addressing nonlinearity in the dynamics and measurement model. Maximum Likelihood is used to adress the problem of data association and outlier detection is based on the Mahalanobis distance.
+
+
 2. **Lab 2 - Monte Carlo Localization (MCL) and Particle Filters**
 This lab extends concepts from Lab 1, focusing on Particle Filters (PF) and Monte Carlo Localization (MCL) for robot tracking and global localization. Through preparatory questions, MATLAB exercises, and simulations, the lab provides an in-depth exploration of probabilistic state estimation.
 

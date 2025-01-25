@@ -1,8 +1,6 @@
 # AppEst_KTH
 
-# Applied Estimation - EL2320 (Autumn 2024)
-
-# Applied Estimation (AppEst) Coursework Repository
+# Applied Estimation (AppEst) - EL2320 (Autumn 2024) Coursework Repository
 
 This repository contains the lab assignments and final project for the EL2320 course at KTH during the autumn term of 2024.
 
